@@ -1,7 +1,4 @@
----
-title: "Getting and Cleaning Data - Course Project: CodeBook.md"
-output: html_document
----
+#Getting and Cleaning Data - Course Project: CodeBook.md
 
 This document describes the variables and data transformations that are used in the course project for the "Getting and Cleaning Data" (Johns Hopkins Coursera) course. 
 

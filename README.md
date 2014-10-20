@@ -1,7 +1,4 @@
----
-title: "Getting and Cleaning Data - Course Project"
-output: html_document
----
+#Getting and Cleaning Data - Course Project
 
 Repository for the course project for Johns Hopkins (Coursera): Getting and Cleaning Data. 
 
